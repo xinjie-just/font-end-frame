@@ -2,9 +2,11 @@
     "cSpell.words": [
         "MVVM",
         "ployfill",
+        "popstate",
         "proto",
         "snabbdom",
         "typeof",
-        "VDOM"
+        "VDOM",
+        "vuex"
     ]
 }
